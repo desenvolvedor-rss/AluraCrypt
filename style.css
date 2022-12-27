@@ -1,0 +1,47 @@
+img {
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caixa {
+
+    position: relative;
+    background-color: #ADD8E6;
+    align-items: center;
+    width: 450px;
+    height: px;
+    padding: 20px;
+    border-radius: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: #618dc7;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input {
+    width: 400px;
+    height: 45px;
+    border-radius: 15%;
+}
+
+fieldset {
+    border-color: #B0C4DE;
+    border-radius: 15%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #B0C4DE;
+    text-align: center;
+    border-radius: 15%;
+}
+
+.direito {
+    padding: 100px;
+}
