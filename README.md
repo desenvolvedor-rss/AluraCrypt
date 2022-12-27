@@ -12,5 +12,5 @@ https://user-images.githubusercontent.com/83734615/209607877-ddbec699-c2f6-40e9-
 ## Ferramentas usadas:
 <p>VISUAL STUDIO CODE</p>
 
-## Testando em nos navegadores:
+## Testando em navegadores:
 <p>CHROME - FIREFOX - EDGE</p>
